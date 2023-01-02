@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando back-end
-- 💬 Contate-me: jovemtksstranger@gmail.com
+- 💬 Contate-me: 1joseingleson1@gmail.com
 - 😄 Pronome: Ele/Dele
 
 <div align="center">
